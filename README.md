@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working on XI'AN
+🔭 I’m currently working on XI'AN.  
+
 ![](https://github-readme-stats.vercel.app/api?username=qqqdu&theme=dark)
